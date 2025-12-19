@@ -6,3 +6,4 @@ csv_files/sql_capstone_project/csv_files*/.csv
 
 # IDE - VS Code
 .vscode/csv_files/job_postings_fact.csv
+*.csv
