@@ -1,1 +1,8 @@
 csv_files/sql_capstone_project/csv_files*/.csv
+# OS generated files
+.DS_Store
+.DS_Store?
+**/._.DS_Store
+
+# IDE - VS Code
+.vscode/
