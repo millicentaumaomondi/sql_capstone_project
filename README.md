@@ -13,14 +13,13 @@ This repo contains the SQL scripts used for the SQL capstone project. The [scrip
 Dataset
 -------
 
-The canonical CSV files are in the repository `csv_files` folder:
+The CSV files can be found [here](https://drive.google.com/drive/folders/1moeWYoUtUklJO6NJdWo9OV8zWjRn0rjN) in the `csv_files` folder:
 
 - `company_dim.csv` — company dimension data
 - `job_postings_fact.csv` — the main fact table of job postings with salary and job metadata
 - `skills_dim.csv` — canonical list of skills
 - `skills_job_dim.csv` — join table mapping skills to job postings
 
-Note: The CSVs are shipped with the repo under `sql_capstone_project/csv_files/`.
 
 # Background
 The project aims to provide insights into the job market for data analysts by analyzing job postings data. It focuses on identifying high-demand skills, top-paying job roles, and the relationships between skills and salaries. The analysis is based on a dataset of job postings, which includes information about job titles, companies, required skills, and salary ranges.
@@ -42,3 +41,5 @@ The analysis is structured into several SQL scripts, each addressing a specific 
 - I also gained insights into the job market for data analysts, understanding which skills are most valued and how they relate to salary levels. 
 - Additionally, I improved my ability to structure a data analysis project from data ingestion to insight generation.
 
+# Acknowledgements
+A huge thank you to Luke Barousse for creating the SQL Data Analytics YouTube course and project which this capstone is based on.
